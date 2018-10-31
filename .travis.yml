@@ -10,7 +10,7 @@ addons:
     packages:
       - cmake
 before_install:
-  - bash .travis.sh before-install
+  - bash .travis.sh
 
 #env:
 #  global:
